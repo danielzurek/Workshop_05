@@ -1,6 +1,6 @@
-# Workshop_05
+# Book Store REST API 
 
-REST API of a book store or a library. Workshop_05 at Coders Lab Java Web Developer. This app has been made during 5 module at the classes with the mentor.  
+REST API of a book store or a library. This app has been made during 5 module of Java bootcamp at the classes with the mentor.  
 
 
 
